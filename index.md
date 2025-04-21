@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+Ryan Bartholomew's Electrical Engineering Portfolio: Projects
 ---
 
